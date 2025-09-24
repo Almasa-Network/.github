@@ -1,4 +1,4 @@
-[img](https://github.com/Almasa-Network/.github/logo.png)
+https://github.com/Almasa-Network/.github/logo.png
 # Almasa Network
 
 Comprehensive tech solutions since 2021 ✨
